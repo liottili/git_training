@@ -17,3 +17,5 @@ validdata<-data[data$Var %in% c("A","B","C","D"),]
 
 #hello
 this is just a test
+
+New addition
